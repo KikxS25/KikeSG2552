@@ -9,4 +9,4 @@ KikeSG2552/KikeSG2552 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://www.facebook.com/photo?fbid=3952906281417317&set=a.141210859253564" alt="Lobo" width="500" height="500">
+<img src="https://drive.google.com/file/d/1HUtMSIPWyo2SYCAdB_Bm0Fl4R5gzRTaF/view" alt="Kike" width="500" height="500">
